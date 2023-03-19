@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/thais36/Integra%C3%A7%C3%A3o%20e%20Entrega%20Cont%C3%ADnua%20de%20Software/_apis/build/status/Integra%C3%A7%C3%A3o%20e%20Entrega%20Cont%C3%ADnua%20de%20Software?branchName=master)](https://dev.azure.com/thais36/Integra%C3%A7%C3%A3o%20e%20Entrega%20Cont%C3%ADnua%20de%20Software/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
